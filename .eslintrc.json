@@ -16,6 +16,7 @@
         "no-undef": "off",
         "no-restricted-syntax": "off",
         "guard-for-in": "off",
+        "import/extensions": "off",
         "consistent-return": "off"     
     }
 }
